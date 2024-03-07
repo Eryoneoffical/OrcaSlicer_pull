@@ -1,0 +1,154 @@
+{
+    "name": "Thinker X400",
+    "version": "01.09.00.02",
+    "force_update": "0",
+    "description": "Eryone  configurations",
+    "machine_model_list": [
+        {
+            "name": "Thinker X400",
+            "sub_path": "machine/Thinker X400.json"
+        }
+    ],
+    "process_list": [
+        {
+            "name": "fdm_process_common",
+            "sub_path": "process/fdm_process_common.json"
+        },
+        {
+            "name": "0.20mm Standard @Thinker X400",
+            "sub_path": "process/0.20mm Standard @Thinker X400.json"
+        },
+        {
+            "name": "0.12mm Fine @Thinker X400",
+            "sub_path": "process/0.12mm Fine @Thinker X400.json"
+        },
+        {
+            "name": "0.16mm Optimal @Thinker X400",
+            "sub_path": "process/0.16mm Optimal @Thinker X400.json"
+        },
+        {
+            "name": "0.20mm Strength @Thinker X400",
+            "sub_path": "process/0.20mm Strength @Thinker X400.json"
+        },
+        {
+            "name": "0.24mm Draft @Thinker X400",
+            "sub_path": "process/0.24mm Draft @Thinker X400.json"
+        },
+        {
+            "name": "0.28mm Extra Draft @Thinker X400",
+            "sub_path": "process/0.28mm Extra Draft @Thinker X400.json"
+        }
+    ],
+    "filament_list": [
+        {
+            "name": "fdm_filament_common",
+            "sub_path": "filament/fdm_filament_common.json"
+        },
+        {
+            "name": "fdm_filament_pla",
+            "sub_path": "filament/fdm_filament_pla.json"
+        },
+        {
+            "name": "fdm_filament_abs",
+            "sub_path": "filament/fdm_filament_abs.json"
+        },
+        {
+            "name": "fdm_filament_asa",
+            "sub_path": "filament/fdm_filament_asa.json"
+        },
+        {
+            "name": "fdm_filament_pa",
+            "sub_path": "filament/fdm_filament_pa.json"
+        },
+        {
+            "name": "fdm_filament_pc",
+            "sub_path": "filament/fdm_filament_pc.json"
+        },
+        {
+            "name": "fdm_filament_pva",
+            "sub_path": "filament/fdm_filament_pva.json"
+        },
+        {
+            "name": "fdm_filament_tpu",
+            "sub_path": "filament/fdm_filament_tpu.json"
+        },
+        {
+            "name": "fdm_filament_pet",
+            "sub_path": "filament/fdm_filament_pet.json"
+        },
+        {
+            "name": "Eryone Generic ABS",
+            "sub_path": "filament/Eryone Generic ABS.json"
+        },
+        {
+            "name": "Eryone Generic ASA",
+            "sub_path": "filament/Eryone Generic ASA.json"
+        },
+        {
+            "name": "Eryone Generic PA",
+            "sub_path": "filament/Eryone Generic PA.json"
+        },
+        {
+            "name": "Eryone Generic PA-CF",
+            "sub_path": "filament/Eryone Generic PA-CF.json"
+        },
+        {
+            "name": "Eryone Generic PC",
+            "sub_path": "filament/Eryone Generic PC.json"
+        },
+        {
+            "name": "Eryone Generic PETG",
+            "sub_path": "filament/Eryone Generic PETG.json"
+        },
+        {
+            "name": "Eryone Generic PLA",
+            "sub_path": "filament/Eryone Generic PLA.json"
+        },
+        {
+            "name": "Eryone Generic PLA-CF",
+            "sub_path": "filament/Eryone Generic PLA-CF.json"
+        },
+        {
+            "name": "Eryone Generic PVA",
+            "sub_path": "filament/Eryone Generic PVA.json"
+        },
+        {
+            "name": "Eryone Generic TPU",
+            "sub_path": "filament/Eryone Generic TPU.json"
+        },
+        {
+            "name": "Eryone Standard PLA",
+            "sub_path": "filament/Eryone Standard PLA.json"
+        },
+        {
+            "name": "Eryone HF PLA",
+            "sub_path": "filament/Eryone HF PLA.json"
+        },
+        {
+            "name": "Eryone Standard ABS",
+            "sub_path": "filament/Eryone Standard ABS.json"
+        },
+        {
+            "name": "Eryone Standard PETG",
+            "sub_path": "filament/Eryone Standard PETG.json"
+        },
+        {
+            "name": "Eryone Standard TPU 95A",
+            "sub_path": "filament/Eryone Standard TPU 95A.json"
+        }
+    ],
+    "machine_list": [
+        {
+            "name": "fdm_machine_common",
+            "sub_path": "machine/fdm_machine_common.json"
+        },
+        {
+            "name": "fdm_klipper_common",
+            "sub_path": "machine/fdm_klipper_common.json"
+        },
+        {
+            "name": "Thinker X400 0.4 nozzle",
+            "sub_path": "machine/Thinker X400 0.4 nozzle.json"
+        }
+    ]
+}

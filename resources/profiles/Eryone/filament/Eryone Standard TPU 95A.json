@@ -1,0 +1,35 @@
+{
+    "filament_max_volumetric_speed": [
+        "3.5"
+    ],
+    "filament_retraction_length": [
+        "1.6"
+    ],
+    "filament_settings_id": [
+        "Eryone Standard TPU 95A"
+    ],
+    "filament_start_gcode": [
+        "; filament start gcode"
+    ],
+    "filament_vendor": [
+        "Eryone"
+    ],
+    "from": "system",
+    "instantiation": "true",
+    "hot_plate_temp": [
+        "50"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "50"
+    ],
+    "inherits": "Eryone Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Eryone Standard TPU 95A",
+    "nozzle_temperature_range_high": [
+        "260"
+    ],
+    "nozzle_temperature_range_low": [
+        "180"
+    ],
+    "version": "1.6.0.0"
+}

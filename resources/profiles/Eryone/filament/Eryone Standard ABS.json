@@ -1,0 +1,50 @@
+{
+    "close_fan_the_first_x_layers": [
+        "3"
+    ],
+    "fan_cooling_layer_time": [
+        "30"
+    ],
+    "fan_max_speed": [
+        "80"
+    ],
+    "fan_min_speed": [
+        "15"
+    ],
+    "filament_settings_id": [
+        "Eryone Standard ABS"
+    ],
+    "filament_type": [
+        "ABS"
+    ],
+    "filament_vendor": [
+        "Eryone"
+    ],
+    "from": "system",
+    "instantiation": "true",
+    "hot_plate_temp": [
+        "90"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "90"
+    ],
+    "inherits": "Eryone Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Eryone Standard ABS",
+    "nozzle_temperature": [
+        "250"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "250"
+    ],
+    "nozzle_temperature_range_high": [
+        "270"
+    ],
+    "nozzle_temperature_range_low": [
+        "240"
+    ],
+    "slow_down_layer_time": [
+        "3"
+    ],
+    "version": "1.6.0.0"
+}
